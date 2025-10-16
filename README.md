@@ -74,7 +74,8 @@ used.
 
 #### Power Report:
 
-![WhatsApp Image 2025-10-04 at 13 12 38_cc4afb4d](https://github.com/user-attachments/assets/165966fc-fecd-453e-b553-5cd9560012bf)
+<img width="1905" height="1011" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/a60ee59a-655e-459c-ba3f-82dc3ca6082d" />
+
 
 
 #### Timing Report: 
