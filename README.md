@@ -65,7 +65,8 @@ used.
 
 #### Synthesis RTL Schematic :
 
-![WhatsApp Image 2025-10-04 at 13 12 38_5a3b4acc](https://github.com/user-attachments/assets/037c3a13-1f4f-4a31-81f2-b6544c402317)
+<img width="1905" height="1011" alt="Untitled design (6)" src="https://github.com/user-attachments/assets/c491a623-07e4-498f-a447-3dba000941d3" />
+
 
 #### Area report:
 
