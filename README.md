@@ -65,7 +65,7 @@ used.
 
 #### Synthesis RTL Schematic :
 
-<img width="1905" height="1011" alt="Untitled design (6)" src="https://github.com/user-attachments/assets/c491a623-07e4-498f-a447-3dba000941d3" />
+
 
 
 #### Area report:
