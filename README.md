@@ -81,6 +81,7 @@ used.
 
 
 #### Timing Report: 
+<img width="1917" height="1044" alt="image" src="https://github.com/user-attachments/assets/f530af7a-4ec6-4173-bc9e-5afd705f7418" />
 
 
 #### Result: 
